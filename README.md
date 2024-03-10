@@ -16,5 +16,4 @@ How to download code you know.
 [link to rules](https://en.m.wikipedia.org/wiki/Durak)
 
 # Authors
-- Coder - SynthouS
-- Help and error fix - ChadGpt
+- [@N0Body](https//t.me/N0Body)
